@@ -1,1 +1,1 @@
-# sound-generate-with-VAE
+# generate sound with VAE
